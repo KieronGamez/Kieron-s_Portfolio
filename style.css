@@ -1,0 +1,9 @@
+body{
+  font-family: Unbounded;
+}
+
+#bkgrdPhoto {
+  border-radius: 50%;
+  height: 10rem;
+  width: 20rem;
+}
