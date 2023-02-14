@@ -3,30 +3,33 @@ html, body {
   position:relative;
   margin: 0;
   font-family: Unbounded;
+
 }
 
+.section1{
+  font-size:1.25rem;
+}
 #bkgrdPhoto {
   border-radius: 100%;
-  height: 10rem;
-  width: 10rem;
+  height: 15rem;
+  width: 15rem;
   
 }
 
 .heroshot{
   float: right;
-
   line-height: 0.1em;
   padding: 3px;
-  font-size: 95%;
+  font-size: 100%;
   margin: 0 0 5px 15px;
   text-align: left;
 
 }
 .backgroundimg{
-  background-image: url("https://wallpapercave.com/wp/wp8948431.jpg");
-  height: 70%;
-  width: 100%;
-  filter: blur(4px);
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/1010/166/494/flat-landscape-minimalism-deer-lake-wallpaper-preview.jpg");
+  height: 100%;
+  width: 150%;
+  filter: blur(3px);
   background-size: 100% 100%;
 }
 
@@ -36,15 +39,19 @@ html, body {
   padding: 1.25em 1.5em 1.5em 1.5em;
   border-left: 1px solid #a7d7f9;
   line-height: 1.6;
-  font-size: 0.875em;
+  font-size: 0.875rem;
 }
 
 .section2 {
-  background-color: gold;
+  background-color: #00203fff;
   padding: 3rem ;
+  font-size: 1.5rem;
+  color: #ADEFD1FF;
 }
 
 .section3 {
-  background-color: lightblue;
+  background-color:#ADEFD1FF ;
   padding: 3rem;
+  font-size: 1.5rem;
+  color: #00203fff;
 }
