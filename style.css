@@ -10,7 +10,7 @@ html, body {
   font-size:1.25rem;
 }
 #bkgrdPhoto {
-  border-radius: 100%;
+  border-radius: 90%;
   height: 15rem;
   width: 15rem;
   
@@ -49,16 +49,16 @@ html, body {
   color: #ADEFD1FF;
 }
 
-.section2half {
-  background-color: #ADEFD1FF;
-  padding: 3rem ;
+.section4 {
+  background-color: #108aa2FF
+  padding 5rem ;
   font-size: 1.5rem;
-  color:#00203fff ;
+  color: #00203fff
 }
 
 .section3 {
-  background-color: #00203fff;
+  background-color:#ADEFD1FF ;
   padding: 3rem;
   font-size: 1.5rem;
-  color: #ADEFD1FF;
+  color: #00203fff;
 }
