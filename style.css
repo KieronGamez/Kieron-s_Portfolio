@@ -26,39 +26,42 @@ html, body {
 
 }
 .backgroundimg{
-  background-image: url("https://p4.wallpaperbetter.com/wallpaper/1010/166/494/flat-landscape-minimalism-deer-lake-wallpaper-preview.jpg");
+  background-image: url("https://cdn.prod.website-files.com/5f2b1efb0f881760ffdc5c96/65293ad388e7f519253c23b6_cuu_mexygabriel_design_banner-scaled.jpg");
   height: 100%;
-  width: 150%;
-  filter: blur(3px);
+  width: 100%;
+  filter: blur(1px);
   background-size: 100% 100%;
 }
 
 .textmain {
   position: absolute;
   top: 0;
-  padding: 1.25em 1.5em 1.5em 1.5em;
+  padding: 2rem 5rem 5rem 1.5rem;
   border-left: 1px solid #a7d7f9;
   line-height: 1.6;
   font-size: 1em;
+  color: #ADEFD1FF;
+  -webkit-text-stroke: 0.059px;
+  -webkit-text-stroke-color: #00203fff;
 }
 
 .section2 {
   background-color: #00203fff;
-  padding: 3rem ;
+  padding: 5rem ;
   font-size: 1.5rem;
   color: #ADEFD1FF;
 }
 
 .section4 {
-  background-color: #108aa2FF
-  padding 5rem ;
+  background-color: #ADEFD1FF ;
+  padding: 5rem ;
   font-size: 1.5rem;
   color: #00203fff
 }
 
 .section3 {
-  background-color:#ADEFD1FF ;
-  padding: 3rem;
+  background-color:#00203fff ;
+  padding: 5rem;
   font-size: 1.5rem;
-  color: #00203fff;
+  color: #ADEFD1FF;
 }
